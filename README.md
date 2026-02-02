@@ -33,7 +33,7 @@ $ echo " Work in progress."
 
 <div align="center">
 
-![Gif](assets/Working The Incredibles GIF.gif)
+![Gif](assets/anime.gif)
 
 </div>
 
