@@ -59,22 +59,6 @@ $ cat /proc/skills
 
 ---
 
-## 📊 **NEURAL NETWORK STATS**
-
-```bash
-$ sudo cat /var/log/hacker_stats.log
-```
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ulxss25&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulxss25&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)
-
-</div>
-
----
-
 **[DAILY ROUTINE]:**
 ```
 Hours logged: 40 hours hours/day
