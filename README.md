@@ -14,7 +14,7 @@ Ulysse Aguessy (@Ulxsse25)
 ```
 
 ```bash
-$ cat /dev/identity
+$ cat /home/identity
 Role: In training
 Company: Currently in the 42 Piscine (intensive coding bootcamp)
 Location: Paris, France
