@@ -44,43 +44,6 @@ $ echo " Work in progress."
 
 ---
 
-## 🖥️ **SYSTEM STATUS**
-
-```bash
-$ systemctl status hacker.service
-● hacker.service - Elite Developer Service
-   Loaded: loaded (/etc/systemd/system/hacker.service; enabled)
-   Active: active (running) since Open to new opportunities
-   
-$ ps aux | grep skills
-[Your primaryTech]        █████████████████████████████ 99%
-nodejs,javascript,html,css,php,mysql
-```
-
----
-
-## 🔐 **ACTIVE OPERATIONS**
-
-```bash
-$ ls -la /home/hacker/projects/
-```
-
-**[01]** `[Your project1Name]/`
-```
-Description: [Your project1Description]
-Access: [Your project1Link]
-Classification: [TOP SECRET]
-```
-
-**[02]** `[Your project2Name]/`
-```
-Description: [Your project2Description]
-Access: [Your project2Link]
-Classification: [CONFIDENTIAL]
-```
-
----
-
 ## ⚡ **TECHNICAL ARSENAL**
 
 ```bash
@@ -90,20 +53,9 @@ $ cat /proc/skills
 | **CATEGORY** | **WEAPONS** |
 |:---:|:---:|
 | **Primary Language** | `JavaScript` |
-| **Full Stack** | `[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)` |
+| **Full Stack** | `JavaScript, Html, Css, MySql, Php` |
 | **Currently Infiltrating** | `C` |
 
-<div align="center">
-
-```
-     ╔═══════════════════════════════════════╗
-     ║           SKILL MATRIX                ║
-     ╠═══════════════════════════════════════╣
-     ║  Node.js                        ║
-     ╚═══════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -133,9 +85,7 @@ Fun Fact: I like learning how systems fail as much as how they work.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedin])
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/uaorell)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([Your website])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguessyu@gmail.com)
 
 </div>
@@ -155,12 +105,6 @@ $ fortune | cowsay
 ```
 
 <div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-██ Welcome to [Your hideout] - Unauthorized access is prohibited ██
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
 
 ![Matrix](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
