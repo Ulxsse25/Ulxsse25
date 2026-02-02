@@ -33,7 +33,7 @@ $ echo " Work in progress."
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+the+Matrix...;Accessing+Neural+Network...;Connection+Established+%3E)
+![Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl0dzBpdGl5bWo2azh3cXB3aTdsYTNlb2Fjb3dhYXZ1dHp3Y2FyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OUguXio0OxdBzO3OQY/giphy.gif)
 
 </div>
 
