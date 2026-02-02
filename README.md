@@ -21,7 +21,7 @@
 
 ```bash
 $ whoami
-Ulysse Aguessy (@Ulxss25)
+Ulysse Aguessy (@Ulxsse25)
 ```
 
 ```bash
@@ -123,18 +123,6 @@ $ sudo cat /var/log/hacker_stats.log
 
 ---
 
-## 🎯 **MISSION OBJECTIVES**
-
-```bash
-$ cat mission.txt
-```
-
-**[CURRENT OBJECTIVE]:** [Your currentGoal]
-
-**[ACHIEVEMENTS UNLOCKED]:**
-- 🏆 [Your achievement1]
-- 🏅 [Your achievement2]
-
 **[DAILY ROUTINE]:**
 ```
 Hours logged: 40 hours hours/day
@@ -142,12 +130,6 @@ Fun Fact: I like learning how systems fail as much as how they work.
 ```
 
 ---
-
-## 🌐 **SECURE CHANNELS**
-
-```bash
-$ netstat -an | grep LISTENING
-```
 
 <div align="center">
 
