@@ -8,12 +8,6 @@
 
 ```
 
-<div align="center">
-
-![Matrix Rain](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-
-</div>
-
 ```bash
 $ whoami
 Ulysse Aguessy (@Ulxsse25)
@@ -30,12 +24,6 @@ Status: Open to new opportunities
 ```bash
 $ echo " Work in progress."
 ```
-
-<div align="center">
-
-![Gif](assets/anime.gif)
-
-</div>
 
 ---
 
@@ -82,11 +70,3 @@ $ fortune | cowsay
                 ||----w |
                 ||     ||
 ```
-
-<div align="center">
-
-![Matrix](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
-**> Connection terminated. Have a nice day._**
-
-</div>
